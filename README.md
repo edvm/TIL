@@ -1,6 +1,14 @@
 # TIL
 Today I learned
 
+# 2019-12-09
+
+### SSR to Vue apps, the easy way 
+
+Tags: `javascript`, `vuejs` 
+
+https://medium.com/swlh/how-to-add-server-side-rendering-to-vue-js-app-the-easy-way-a38fc32c9bf2
+
 # 2019-12-03
 
 ### Don't reassign your function arguments
