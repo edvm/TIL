@@ -1,6 +1,16 @@
 # TIL
 Today I learned
 
+# 2019-12-11
+
+### Instant realtime GraphQL engine 
+
+Tags: `graphql`
+
+https://hasura.io/
+
+How to use Hasura with Django, the eassy way: https://medium.com/free-code-camp/how-to-get-instant-graphql-apis-on-your-existing-django-application-c8fcfdb945aa
+
 # 2019-12-09
 
 ### SSR to Vue apps, the easy way 
