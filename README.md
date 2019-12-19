@@ -1,6 +1,23 @@
 # TIL
 Today I learned
 
+# 2019-12-19
+
+### Using multiple python versions
+
+Tags: `python`
+
+Install different python versions and use them like `virtualenvs`. Also, it supports define which `python version` do you want to use by `application`, creating a `.python-version` file in the current app/directory.
+
+To create a `.python-version` file, issue the command: `pyenv local 3.8.0`
+
+Docs at: https://github.com/pyenv/pyenv/blob/master/COMMANDS.md#pyenv-local
+
+### Instant realtime GraphQL engine 
+
+Tags: `graphql`
+
+
 # 2019-12-11
 
 ### Instant realtime GraphQL engine 
